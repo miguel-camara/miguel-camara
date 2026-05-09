@@ -34,11 +34,3 @@ Siempre busco seguir creciendo como desarrollador, explorando nuevas herramienta
   <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />&nbsp;-->
   <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />&nbsp;-->
 </p>
-&nbsp;
-<h2 align="left">Estadisticas </h2>
-&nbsp;
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/miguel-camara/miguel-camara/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/miguel-camara/miguel-camara/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
