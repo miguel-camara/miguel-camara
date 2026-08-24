@@ -22,6 +22,8 @@ _From startup MVPs to national-scale enterprise platforms — streaming, fintech
 
 ---
 
+<!--
+
 ## 🚀 Featured projects
 
 <table>
@@ -84,6 +86,7 @@ Resources I actively maintain. _(Excludes enterprise projects and mobile apps un
 </td>
 </tr>
 </table>
+-->
 
 ---
 
