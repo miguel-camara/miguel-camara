@@ -99,7 +99,7 @@ Resources I actively maintain. _(Excludes enterprise projects and mobile apps un
 **Languages**<br>
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-227aec?style=flat-square&logo=java&logoColor=white&labelColor=227aec)
+![Java](https://img.shields.io/badge/Java-16a5f3?style=flat-square&logo=iconjar&logoColor=white&labelColor=16a5f3)
 
 **Frontend**<br>
 ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
