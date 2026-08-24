@@ -111,8 +111,10 @@ Resources I actively maintain. _(Excludes enterprise projects and mobile apps un
 
 **Backend**<br>
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6db33f?style=flat-square&logo=springboot&logoColor=white&labelColor=6db33f)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6db33f?style=flat-square&logo=springsecurity&logoColor=white&labelColor=6db33f)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express&logoColor=61DAFB)
+
 <td valign="top" width="50%">
 
 **Databases & Cloud**<br>
