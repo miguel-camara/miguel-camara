@@ -15,7 +15,7 @@ _Me interesa crear aplicaciones completas, desde la lógica del backend hasta in
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 Sobre mí
 
 - 🏗️ Desarrollador Full Stack apasionado por la tecnología, la resolución de problemas y el aprendizaje continuo. Disfruto trabajar en equipo, donde puedo compartir conocimientos y aprender de otros para construir soluciones más sólidas y eficientes.
 - 🎯 Siempre busco seguir creciendo como desarrollador, explorando nuevas herramientas, buenas prácticas y formas de optimizar mi trabajo.
