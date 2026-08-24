@@ -100,12 +100,15 @@ Resources I actively maintain. _(Excludes enterprise projects and mobile apps un
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![Java](https://img.shields.io/badge/Java-227aec?style=flat-square&logo=java&logoColor=white&labelColor=227aec)
+
 **Frontend**<br>
 ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-f60950?style=flat-square&logo=angular&logoColor=white&labelColor=f60950)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
 **Mobile**<br>
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
 **Backend**<br>
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6db33f?style=flat-square&logo=springboot&logoColor=white&labelColor=6db33f)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
@@ -119,6 +122,7 @@ Resources I actively maintain. _(Excludes enterprise projects and mobile apps un
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285f4?style=flat-square&logo=googlecloud&logoColor=white&labelColor=4285f4)
 ![Firebase](https://img.shields.io/badge/Firebase-dd2c00?style=flat-square&logo=firebase&logoColor=white&labelColor=dd2c00)
+
 **Architecture & DevOps**<br>
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00c7b7?style=flat-square&logo=netlify&logoColor=white&labelColor=00c7b7)
