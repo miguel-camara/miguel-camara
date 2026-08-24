@@ -90,7 +90,7 @@ Resources I actively maintain. _(Excludes enterprise projects and mobile apps un
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologias
 
 <table>
 <tr>
