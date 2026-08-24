@@ -6,7 +6,7 @@
 
 📍 _Calkini, Campeche, México_
 
-_From startup MVPs to national-scale enterprise platforms — streaming, fintech, and healthcare._
+_Me interesa crear aplicaciones completas, desde la lógica del backend hasta interfaces funcionales y bien diseñadas en el frontend._
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikey-camara)
 [![WEB](https://img.shields.io/badge/WEB-2e2e2e?style=for-the-badge&logo=web&logoColor=white&labelColor=ffd800)](https://portfolio--miguel-camara-dev.us-central1.hosted.app/)
