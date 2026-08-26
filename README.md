@@ -22,29 +22,29 @@ _Me interesa crear aplicaciones completas, desde la lógica del backend hasta in
 
 ---
 
-<!--
-
-## 🚀 Featured projects
+## 🚀 Proyectos destacados
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 [PRism](https://www.prismgit.com/)
+### 👖 [Teslo Shop](https://teslo-shop-app-miguel.netlify.app/#/)
 
-**AI Code Reviews for GitHub**
+Tienda de ropa online full stack: catálogo para hombre, mujer y niño,
+autenticación JWT, panel de administración y API RESTful.
 
-SaaS that reviews every Pull Request with AI, using **your entire repo as context (RAG)**, and comments inline — right on GitHub.
+**Teslo Shop** es un e-commerce de ropa formado por dos partes que trabajan juntas:
 
-- **Multi-model** (Claude, Gemini, OpenAI)
-- **BYOK** (Keys encrypted with AES-256-GCM)
-- **Stack:** Next.js · NestJS · PostgreSQL
+| Parte        | Tecnología                             | Rol                                            |
+| ------------ | -------------------------------------- | ---------------------------------------------- |
+| **Frontend** | Angular 21 + Tailwind CSS + daisyUI    | Tienda pública, login/registro y panel admin   |
+| **Backend**  | Spring Boot 3.5 + Java 21 + PostgreSQL | API REST: auth JWT, productos, archivos y seed |
 
-[![Visit PRism](https://img.shields.io/badge/prismgit.com-Visit-6C5CE7?style=for-the-badge)](https://www.prismgit.com/)
+[![Visita TesloShop](https://img.shields.io/badge/Visita_TesloShop-00c7b7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=20232a)](https://teslo-shop-app-miguel.netlify.app/#/)
 </td>
 <td width="50%" valign="top">
 
-### 📄 [NexCV](https://nexcv.net/es)
+<!--### 📄 [NexCV](https://nexcv.net/es)
 
 **AI-Powered Resume Evaluation**
 
@@ -70,23 +70,21 @@ A dedicated laboratory platform to practice real JavaScript technical interview 
 - **Immediate code evaluation**
 - **Stack:** React · Vite · Tailwind CSS
 
-[![Visit Lab](https://img.shields.io/badge/lab.devbymike.tech-Visit-F7DF1E?style=for-the-badge&logoColor=black)](https://lab.devbymike.tech/es/)
+[![Visit Lab](https://img.shields.io/badge/lab.devbymike.tech-Visit-F7DF1E?style=for-the-badge&logoColor=black)](https://lab.devbymike.tech/es/)-->
 </td>
+<tr/>
 <td width="50%" valign="top">
 
-### 📂 Open Source Boilerplates
+### 🛠️ Herramientas
 
-Resources I actively maintain. _(Excludes enterprise projects and mobile apps under NDA)._
+Recursos que mantengo activamente.
 
-- [JS Interview Lab Repo](https://github.com/MiguelCovarrubiasdaiz/devbymike-js-interview-lab)
-- [NestJS Architecture Structure](https://github.com/MiguelCovarrubiasdaiz/nest-structure)
-- [Next.js Clean Structure](https://github.com/MiguelCovarrubiasdaiz/next-structure)
-- [React Feature-Sliced Structure](https://github.com/MiguelCovarrubiasdaiz/react-structure)
-
+- [Generador de badges](https://github.com/miguel-camara/badges-app)
+- [Optimizador de imagenes](https://github.com/miguel-camara/image-converter)
 </td>
+
 </tr>
 </table>
--->
 
 ---
 
@@ -122,8 +120,9 @@ Resources I actively maintain. _(Excludes enterprise projects and mobile apps un
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000f?style=flat-square&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285f4?style=flat-square&logo=googlecloud&logoColor=white&labelColor=4285f4)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285f4?style=flat-square&logo=googlecloud&logoColor=white&labelColor=4285f4)
 ![Firebase](https://img.shields.io/badge/Firebase-dd2c00?style=flat-square&logo=firebase&logoColor=white&labelColor=dd2c00)
+![Neon](https://img.shields.io/badge/Neon-34d59a?style=flat-square&logo=neon&logoColor=black&labelColor=34d59a)
 
 **Architecture & DevOps**<br>
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
@@ -135,6 +134,7 @@ Resources I actively maintain. _(Excludes enterprise projects and mobile apps un
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=181717)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white&labelColor=000000)
+![Postman](https://img.shields.io/badge/Postman-ff6c37?style=flat-square&logo=postman&logoColor=white&labelColor=ff6c37)
 
 </td>
 </tr>
