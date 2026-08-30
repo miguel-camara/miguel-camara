@@ -26,7 +26,7 @@ _Me interesa crear aplicaciones completas, desde la lógica del backend hasta in
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ### 👖 [Teslo Shop](https://teslo-shop-app-miguel.netlify.app/#/)
 
@@ -42,42 +42,27 @@ autenticación JWT, panel de administración y API RESTful.
 
 [![Visita TesloShop](https://img.shields.io/badge/Visita_TesloShop-00c7b7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=20232a)](https://teslo-shop-app-miguel.netlify.app/#/)
 </td>
-<td width="50%" valign="top">
-
-### 📄 [DevToolsGo](https://github.com/miguel-camara/devtools-tui-go/edit/main/README.md)
-
-**DevToolsGo**
-
-DTG (Dev Tools Go) es una suite de herramientas de desarrollador en terminal: encode, diseño, datos, texto, utilidades y criptografía, local y offline.
-
-Categorías del catálogo:
-
-- **Encode / Decode** — Base64, URL, ASCII/Hex, Unicode, HTML entities
-- **UI / UX Design** — Color, paleta, gradient, bezier, contraste, mixer
-- **Data Manipulation** — UUID, JSON/YAML/HTML, fechas, ZIP, imágenes, random
-- **Text** — Diff, tabla Markdown, Lorem, slug
-- **Utility** — QR, HTTP status, unidades, paths, bases, cron, chmod, Docker Compose
-- **Cryptography** — Bcrypt, token, password, JWT, AES, SHA, RSA, HMAC
-
-## Stack tecnológico
-
-| Tecnología          | Versión |
-| ------------------- | ------- |
-| Go                  | 1.25    |
-| Bubble Tea          | 1.3     |
-| Lipgloss            | 1.1     |
-| Bubbles             | 1.0     |
-| yaml.v3             | 3.0     |
-| golang.org/x/crypto | 0.55    |
-| atotto/clipboard    | 0.1     |
-
-**Patrones usados:** arquitectura Elm (Init / Update / View), layout dual-pane por pesos, catálogo centralizado, separación `cmd/` + `internal/`.
-
-[![Visita DevToolsGo](https://img.shields.io/badge/Visita_DevToolsGo-00c7b7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=20232a)](https://github.com/miguel-camara/devtools-tui-go/edit/main/README.md)
-</td>
 </tr>
-<tr/>
-<td width="50%" valign="top">
+<tr>
+<!-- <td width="100%" valign="top">
+
+### 👖 [Teslo Shop](https://teslo-shop-app-miguel.netlify.app/#/)
+
+Tienda de ropa online full stack: catálogo para hombre, mujer y niño,
+autenticación JWT, panel de administración y API RESTful.
+
+**Teslo Shop** es un e-commerce de ropa formado por dos partes que trabajan juntas:
+
+| Parte        | Tecnología                             | Rol                                            |
+| ------------ | -------------------------------------- | ---------------------------------------------- |
+| **Frontend** | Angular 21 + Tailwind CSS + daisyUI    | Tienda pública, login/registro y panel admin   |
+| **Backend**  | Spring Boot 3.5 + Java 21 + PostgreSQL | API REST: auth JWT, productos, archivos y seed |
+
+[![Visita TesloShop](https://img.shields.io/badge/Visita_TesloShop-00c7b7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=20232a)](https://teslo-shop-app-miguel.netlify.app/#/)
+</td> -->
+</tr>
+<tr>
+<td width="100%" valign="top">
 
 ### 🛠️ Herramientas
 
@@ -85,9 +70,11 @@ Recursos que mantengo activamente.
 
 - [Generador de badges](https://github.com/miguel-camara/badges-app)
 - [Optimizador de imagenes](https://github.com/miguel-camara/image-converter)
+- [Devtools Go ](https://github.com/miguel-camara/devtools-tui-go)
 
 </td>
 </tr>
+
 </table>
 
 ---
