@@ -44,34 +44,38 @@ autenticación JWT, panel de administración y API RESTful.
 </td>
 <td width="50%" valign="top">
 
-<!--### 📄 [NexCV](https://nexcv.net/es)
+### 📄 [DevToolsGo](https://github.com/miguel-camara/devtools-tui-go/edit/main/README.md)
 
-**AI-Powered Resume Evaluation**
+**DevToolsGo**
 
-An open-access SaaS platform designed to evaluate and optimize professional resumes, fully integrated with automated payments and profile analysis.
+DTG (Dev Tools Go) es una suite de herramientas de desarrollador en terminal: encode, diseño, datos, texto, utilidades y criptografía, local y offline.
 
-- **Automated CV parsing & feedback**
-- **Secure payment gateways**
-- **Stack:** Next.js · Node.js · PostgreSQL
+Categorías del catálogo:
 
-[![Visit NexCV](https://img.shields.io/badge/nexcv.net-Visit-3ECF8E?style=for-the-badge)](https://nexcv.net/es)
+- **Encode / Decode** — Base64, URL, ASCII/Hex, Unicode, HTML entities
+- **UI / UX Design** — Color, paleta, gradient, bezier, contraste, mixer
+- **Data Manipulation** — UUID, JSON/YAML/HTML, fechas, ZIP, imágenes, random
+- **Text** — Diff, tabla Markdown, Lorem, slug
+- **Utility** — QR, HTTP status, unidades, paths, bases, cron, chmod, Docker Compose
+- **Cryptography** — Bcrypt, token, password, JWT, AES, SHA, RSA, HMAC
+
+## Stack tecnológico
+
+| Tecnología          | Versión |
+| ------------------- | ------- |
+| Go                  | 1.25    |
+| Bubble Tea          | 1.3     |
+| Lipgloss            | 1.1     |
+| Bubbles             | 1.0     |
+| yaml.v3             | 3.0     |
+| golang.org/x/crypto | 0.55    |
+| atotto/clipboard    | 0.1     |
+
+**Patrones usados:** arquitectura Elm (Init / Update / View), layout dual-pane por pesos, catálogo centralizado, separación `cmd/` + `internal/`.
+
+[![Visita DevToolsGo](https://img.shields.io/badge/Visita_DevToolsGo-00c7b7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=20232a)](https://github.com/miguel-camara/devtools-tui-go/edit/main/README.md)
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧪 [DevByMike Lab](https://lab.devbymike.tech/es/)
-
-**Interactive JS Interview Prep**
-
-A dedicated laboratory platform to practice real JavaScript technical interview questions, interactive coding challenges, and mock interviews.
-
-- **Real-world technical scenarios**
-- **Immediate code evaluation**
-- **Stack:** React · Vite · Tailwind CSS
-
-[![Visit Lab](https://img.shields.io/badge/lab.devbymike.tech-Visit-F7DF1E?style=for-the-badge&logoColor=black)](https://lab.devbymike.tech/es/)-->
-</td>
 <tr/>
 <td width="50%" valign="top">
 
@@ -81,8 +85,8 @@ Recursos que mantengo activamente.
 
 - [Generador de badges](https://github.com/miguel-camara/badges-app)
 - [Optimizador de imagenes](https://github.com/miguel-camara/image-converter)
-</td>
 
+</td>
 </tr>
 </table>
 
