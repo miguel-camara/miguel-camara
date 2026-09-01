@@ -46,7 +46,7 @@ autenticación JWT, panel de administración y API RESTful.
 <tr>
 <td width="100%" valign="top">
 
-### 👖 [Portafolio](https://portfolio--miguel-camara-dev.us-central1.hosted.app/)
+### 🌐 [Portafolio](https://portfolio--miguel-camara-dev.us-central1.hosted.app/)
 
 Portafolio full stack con sitio público y panel de administración.
 Frontend Angular con SSR y API REST Spring Boot con JWT, PostgreSQL y almacenamiento en Google Cloud Storage.
