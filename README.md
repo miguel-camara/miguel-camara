@@ -44,22 +44,29 @@ autenticación JWT, panel de administración y API RESTful.
 </td>
 </tr>
 <tr>
-<!-- <td width="100%" valign="top">
+<td width="100%" valign="top">
 
-### 👖 [Teslo Shop](https://teslo-shop-app-miguel.netlify.app/#/)
+### 👖 [Portafolio](https://portfolio--miguel-camara-dev.us-central1.hosted.app/)
 
-Tienda de ropa online full stack: catálogo para hombre, mujer y niño,
-autenticación JWT, panel de administración y API RESTful.
+Portafolio full stack con sitio público y panel de administración.
+Frontend Angular con SSR y API REST Spring Boot con JWT, PostgreSQL y almacenamiento en Google Cloud Storage.
 
-**Teslo Shop** es un e-commerce de ropa formado por dos partes que trabajan juntas:
+**Portafolio** es un monorepo con dos aplicaciones: un frontend Angular que muestra perfil, tecnologías, proyectos y documentos, y un backend Spring Boot que expone la API REST y gestiona autenticación, persistencia y subida de archivos.
 
-| Parte        | Tecnología                             | Rol                                            |
-| ------------ | -------------------------------------- | ---------------------------------------------- |
-| **Frontend** | Angular 21 + Tailwind CSS + daisyUI    | Tienda pública, login/registro y panel admin   |
-| **Backend**  | Spring Boot 3.5 + Java 21 + PostgreSQL | API REST: auth JWT, productos, archivos y seed |
+La parte pública es de solo lectura. El panel /dashboard requiere login JWT y permite administrar todo el contenido del portafolio.
 
-[![Visita TesloShop](https://img.shields.io/badge/Visita_TesloShop-00c7b7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=20232a)](https://teslo-shop-app-miguel.netlify.app/#/)
-</td> -->
+## Características
+
+- **Sitio público** — Inicio con perfil y stack tecnológico; catálogo de proyectos con búsqueda y filtros por tecnología.
+- **Panel admin** — CRUD de perfil, tecnologías, documentos y proyectos con subida de imágenes y PDFs.
+- **API REST versionada** — Recursos bajo `/api/v1`; lectura pública y escritura protegida con `ROLE_ADMIN`.
+- **Autenticación JWT** — Access y refresh tokens con rotación; rate limiting en memoria por IP.
+- **Almacenamiento en GCS** — Archivos en Google Cloud Storage con URLs públicas y redirección desde la API.
+- **Tema claro/oscuro** — Preferencia persistente en el frontend.
+- **SSR y SEO** — Metadatos Open Graph y JSON-LD por ruta.
+
+[![Visita Mi Portafolio](https://img.shields.io/badge/Visita_Mi_Portafolio-00c7b7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=20232a)](https://portfolio--miguel-camara-dev.us-central1.hosted.app/)
+</td>
 </tr>
 <tr>
 <td width="100%" valign="top">
